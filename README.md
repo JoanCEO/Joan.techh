@@ -10,12 +10,6 @@
 
 ###
 
-<div data-importer="music" align="left">
-  <img src="https://open.spotify.com/user/31ysmrhx45mordnzsqqle3cbkir4?si=cce3ded48ad74171?theme=dark&spin=false&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
 <img data-importer="image" align="left" height="200" src="https://cdn.discordapp.com/attachments/1522706061646233694/1538917307512791190/a8d9bd2b2de4e96a22a7ac474d55c298.png?ex=6a846bed&is=6a831a6d&hm=7abb8a9eebbae6394ebeba8fc652d4039001a9b818aecf22f6dc992aa4ad7766&"  />
 
 ###
@@ -50,12 +44,6 @@
   <img src="https://raw.githubusercontent.com/JoanCEO/JoanCEO/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/JoanCEO/JoanCEO/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/JoanCEO/JoanCEO/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="220" src="https://cdn.discordapp.com/attachments/1522706061646233694/1538922593564753960/95257c36fcb6284c11c05c3f35926157.png?ex=6a8470da&is=6a831f5a&hm=29e2cea2365471e95ce51a061bb98332e395eeba2b545ddf2ffc90a279e7b020&"  />
 </div>
 
 ###
